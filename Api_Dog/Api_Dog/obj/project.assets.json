@@ -2123,11 +2123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmdpd\\Desktop\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
+      "projectUniqueName": "C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
       "projectName": "Api_Dog",
-      "projectPath": "C:\\Users\\rmdpd\\Desktop\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
+      "projectPath": "C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
       "packagesPath": "C:\\Users\\rmdpd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rmdpd\\Desktop\\Api_Dog\\Api_Dog\\obj\\",
+      "outputPath": "C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

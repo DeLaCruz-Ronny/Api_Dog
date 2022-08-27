@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZBaZQY4NayDDthc9/EYKjvZMEmzRTGn4hEjfOmH4A9isU1n6tkomk6ZY3DDt0ksyTT3+XBwE98YnzoYcM1izQ==",
+  "dgSpecHash": "0ieH3AHU+u82WfnGhJ+6IU0srzgk7kUlm8N4rKIaHMC0JCzNRWrbq5fTLMCbGQiaSJOmbwpRFuaHOzTtcMzyaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rmdpd\\Desktop\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
+  "projectFilePath": "C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\Api_Dog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmdpd\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\rmdpd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
