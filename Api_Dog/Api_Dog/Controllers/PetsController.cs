@@ -2,6 +2,8 @@
 using Api_Dog.DTOs;
 using Api_Dog.Entidades;
 using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,6 +12,7 @@ namespace Api_Dog.Controllers
 {
     [ApiController]
     [Route("api/pets")]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class PetsController : ControllerBase
     {
         private readonly ApplicationDbContext context;
