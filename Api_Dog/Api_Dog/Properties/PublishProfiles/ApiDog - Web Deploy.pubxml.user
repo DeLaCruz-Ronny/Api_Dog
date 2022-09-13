@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAEmVoHmb2BEu7HCLRUPJIdAAAAAACAAAAAAAQZgAAAAEAACAAAAAVS4J2q/j4SDquILj6CA2Ln+LDqDo71iKrrL67hI25ZQAAAAAOgAAAAAIAACAAAAA9oQmPT7KxC8lqoVIz5+32p6Panzwrtcl5gH6VBhBQqIAAAAATB36eSnOlP/qkLa3WG3c6o+iKQFD+fDtcbAwvqbq2XAtQaFUkvwDECSAIq+feZulrcN9zK7+3wT4YErn0lkP1AO57TQT6zT/JpE8xKgL7GSesheZp0X6G8Zoe4j/PMgsVLz5itKET4E9ChEm/tjjMCxspwqpgRQCzt5xchM+uFkAAAAD90v4//huVQzZMFMM/f/qFtDGMCMr5GMFOuOI0btuXTVwiuJ2is4aT7oJlVdbc8X158jSZmkxOmZm3xQ409EFn</EncryptedPassword>
+    <History>True|2022-09-13T01:34:36.8135328Z;True|2022-09-12T21:29:05.7224570-04:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Api_Dog.Context.ApplicationDbContext">
+      <Value>Data Source=tcp:api-dogdbserver.database.windows.net,1433%3bInitial Catalog=Api_Dog_db%3bUser Id=ronny%40api-dogdbserver%3bPassword=Delacruz1995</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

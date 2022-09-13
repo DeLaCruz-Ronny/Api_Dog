@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2022-09-13T01:12:09.1635801Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2022-09-13T01:03:46.5241754Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a3982e5c-9f76-479e-9e66-60296eb14868"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ApiDog"
+    }
+  }
+}

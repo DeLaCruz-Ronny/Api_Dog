@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ApiDog" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Api_Dog.Context.ApplicationDbContext" description="" value="Data Source=tcp:api-dogdbserver.database.windows.net,1433;Initial Catalog=Api_Dog_db;User Id=ronny@api-dogdbserver;Password=Delacruz1995" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\rmdpd\\Desktop\\Api_Pets\\Api_Dog\\Api_Dog\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\Api_Dog\.Context\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\rmdpd\Desktop\Api_Pets\Api_Dog\Api_Dog\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\rmdpd\Desktop\Api_Pets\Api_Dog\Api_Dog\obj\Release\net6.0\PubTmp\EFSQLScripts\Api_Dog.Context.ApplicationDbContext.sql" />
+</sitemanifest>
